@@ -1,0 +1,32 @@
+Question Params,Answer Style,Answer_Input,OutPut_To_DataFrame,List_Output_Variable
+Amount of Loan,Input_Entry,250:18000,[],a
+Checking_Acct_Bal,Drop_Down,0 Balance,0,_
+Checking_Acct_Bal,Drop_Down,Less_than_$200,1,_
+Checking_Acct_Bal,Drop_Down,$200 and Above,2,_
+Checking_Acct_Bal,Drop_Down,No_Checking,3,_
+Application_Age,Input_Entry,19:75,[],b
+Loan_Duration,Input_Entry,4:72,[],c
+Credit_History,Drop_Down,No_Credit_History,0,_
+Credit_History,Drop_Down,No_Late_Payments_With_W.E.,1,_
+Credit_History,Drop_Down,Current_With_Other_Creditors,2,_
+Credit_History,Drop_Down,Any_Overall_Late_Payments,3,_
+Credit_History,Drop_Down,Crictical_Acct,4,_
+Years_Employed,Drop_Down,Unemployed,0,_
+Years_Employed,Drop_Down,Less_Than_1yr,1,_
+Years_Employed,Drop_Down,1yr_to_Almost_4yrs,2,_
+Years_Employed,Drop_Down,4yrs_to_Almost_7yrs,3,_
+Years_Employed,Drop_Down,7yrs_plus,4,_
+Saving_Acct_Bal,Drop_Down,Less_Than_$100,0,_
+Saving_Acct_Bal,Drop_Down,100_to_$499,1,_
+Saving_Acct_Bal,Drop_Down,500_to_$1000,2,_
+Saving_Acct_Bal,Drop_Down,Greater_than_$1000,3,_
+Saving_Acct_Bal,Drop_Down,N/A_or_No_Savings,4,_
+Install_Rate,Input_Entry,1:4,[],d
+Years_of_Residency,Drop_Down,Less_than_1yr,1,_
+Years_of_Residency,Drop_Down,1yr_to_Almost_2yrs,2,_
+Years_of_Residency,Drop_Down,2yrs_to_Almost_3yrs,3,_
+Years_of_Residency,Drop_Down,4yrs_plus,4,_
+Type_of_Job,Drop_Down,Unemployed,0,_
+Type_of_Job,Drop_Down,Unskilled_Employee,1,_
+Type_of_Job,Drop_Down,Skilled_Employee,2,_
+Type_of_Job,Drop_Down,Management,3,_
